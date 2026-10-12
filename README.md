@@ -2,7 +2,7 @@
 
 > **Brand Voice & Identity Playbook** · Site tĩnh triển khai trên GitHub Pages
 
-🔗 **Live site:** [mkt-tecotec.github.io/T3-Brand-Playbook](https://mkt-tecotec.github.io/T3-Brand-Playbook/)
+🔗 **Live site:** [marcom-tct.github.io/T3-Brand-Playbook](https://marcom-tct.github.io/T3-Brand-Playbook/)
 
 ---
 

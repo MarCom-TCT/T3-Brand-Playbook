@@ -1,8 +1,8 @@
 # CLAUDE.md — T3 Brand Playbook
 
 ## Project
-- **Repo:** github.com/mkt-tecotec/T3-Brand-Playbook
-- **Live:** https://mkt-tecotec.github.io/T3-Brand-Playbook/
+- **Repo:** github.com/MarCom-TCT/T3-Brand-Playbook
+- **Live:** https://marcom-tct.github.io/T3-Brand-Playbook/
 - **Type:** Static brand guidelines site (vanilla HTML + CSS + JS)
 - **Deploy:** GitHub Pages (auto from `main` branch)
 
